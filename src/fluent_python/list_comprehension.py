@@ -36,5 +36,6 @@ print(f'The word length of each state: {state_len}\n\n')
 # - we definitely cannot afford loading everything into the memory
 # - we have to evluate on demand
 
+# CX: this is a generator, like a pointer point to the answer, you can use next(state_iterator) to get the answer , moving. 
 state_iterator = (state for state in states)
 print(f'State iterator does not print anything: {state_iterator}')
