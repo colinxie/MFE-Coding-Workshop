@@ -6,9 +6,9 @@
 
 
 ## Version Control
-
+**CX: git is not github**
 * Why use version control tools?
-* `git` vs. GitHub
+* `git` vs. GitHub 
 * [Sourcetree](https://www.sourcetreeapp.com/)
 * `git` on white board (distributed version control flow)
 * basic `git` commands:
